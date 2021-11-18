@@ -1,3 +1,3 @@
-console.log("Hello World");
+console.log("Hello GIT World");
 
-window.alert("Hello World");
+window.alert("Hello GIT World");
